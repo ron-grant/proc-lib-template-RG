@@ -1,5 +1,7 @@
 The following describes how to set up a Processing Library project in Eclipse and build it successfully, and to make your Library ready for distribution.
 
+(I created this fork to allow me to experiment with/ learn how to create Processing libraries.) 
+
 ## Import to Eclipse
 
 There are two options to import the template project into Eclipse: using a Git [fork](https://help.github.com/articles/fork-a-repo) or using a downloaded package. If you are not familiar with Git or GitHub, you should opt for the downloaded package.
